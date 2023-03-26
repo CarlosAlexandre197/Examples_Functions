@@ -1,2 +1,2 @@
-# Exemplo_Funcoes
-Exemplo de funções no Jupyter Notebook.
+# Exemplos_Funcoes
+Exemplos de funções no Jupyter Notebook.
